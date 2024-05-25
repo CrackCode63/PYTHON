@@ -14,7 +14,7 @@
 # There are three types of loops
 # 1. For loop
 # 2. While loop
-# 3. Do while loop
+# 3. Do while loop(This loop doesn't works in Python)
 
 # Now learn about for loops
 
